@@ -1,0 +1,3 @@
+name: UAI-failure-repro
+runtime: nodejs
+description: Reproduction of the UserAssignedIdentity creation failures
